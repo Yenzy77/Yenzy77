@@ -15,7 +15,6 @@ Organization: All official projects and public repositories are published under 
 
 ### Languages & Frameworks (Currently Learning)
 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![MicroPython](https://img.shields.io/badge/MicroPython-2B5B84?style=flat&logo=micropython&logoColor=white)](https://micropython.org)
