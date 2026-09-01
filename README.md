@@ -8,7 +8,7 @@ Hardware & Automation Enthusiast | Founder at RUMIKU
 
 I am a creator focused on building web applications, workflow automation, and hardware integration. As the founder of RUMIKU, I design and manage digital ecosystems ranging from digital product platforms and media portals to microcontroller-based systems.
 
-Focus Areas: Workflow Automation, Community Ecosystem, and IoT Systems.  
+Focus Areas: Workflow Automation, and IoT Systems.  
 Organization: All official projects and public repositories are published under [RUMIKU](https://github.com/rumikucom).
 
 ## Tech Stack & Tools
